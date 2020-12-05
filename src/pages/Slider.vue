@@ -10,7 +10,7 @@
             </div>
             </transition>
         </div>
-        <div class="w-full" style="height: 340px;">
+        <div class="w-full bg-green-400 bg-yellow-200 bg-red-800 " style="height: 340px;">
             <div class="absolute bottom-0 w-full flex justify-center">
                 <div v-for="(slide, index) in slides" 
                     :key="slide" 
